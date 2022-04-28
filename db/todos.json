@@ -3,17 +3,47 @@
     {
       "id": 1,
       "title": "Feed the cat",
-      "completed": false
+      "completed": true
     },
     {
       "id": 2,
       "title": "Cut the grass",
-      "completed": true
+      "completed": false
     },
     {
       "id": 3,
       "title": "Fix the gutters",
-      "completed": true
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "complete CV",
+      "completed": false
+    },
+    {
+      "title": "cat",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "cat",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "cat",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "parmigiano",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "parmigiano",
+      "completed": false,
+      "id": 9
     }
   ]
 }
